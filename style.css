@@ -1,5 +1,8 @@
  
     /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .heading.nav{
+      background-image: url("https://s-media-cache-ak0.pinimg.com/736x/fc/86/49/fc8649e3a41c00d81ad2ed5e9780deb9.jpg");
+    }
     .navbar {
       margin-bottom: 0;
       border-radius: 0;
