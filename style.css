@@ -2,7 +2,7 @@
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .heading{
       background-image: url("https://s-media-cache-ak0.pinimg.com/736x/fc/86/49/fc8649e3a41c00d81ad2ed5e9780deb9.jpg");
-      text-co
+     text-align: center;
     }
     .navbar {
       margin-bottom: 0;
@@ -26,7 +26,11 @@
     .carousel-caption {
       display: none; 
     }
+    h1{
+      text-align: center;
+    }
   }
+  
   
    @media only screen and (min-width: 768px) {
 	
